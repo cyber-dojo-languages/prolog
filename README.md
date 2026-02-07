@@ -1,5 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/prolog.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/prolog)
+[![Github Action (master)](https://github.com/cyber-dojo-languages/prolog/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/prolog/actions)
 
-## image_name="cyberdojofoundation/prolog"
+## display_name="Prolog 10.1.1"
+## image_name="ghcr.io/cyber-dojo-languages/prolog"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
